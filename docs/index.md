@@ -9,12 +9,11 @@ _μένω ménō, men'-o; a primary verb; to stay (in a given place, state, rel
 ### *More About Menō*
 
 
-Menō is a software application enhanced with real-time connectivity, and other features that have been carefully integrated to foster the interaction between believers, specifically for the purpose of fellowshipping together and edifying one another.
-
+Menō is a devotional app for Christians that allows users to read different translations of the Christian Bible while also being able to read articles and blogs to help them grow spiritually.
 
 ### *Our Vision & Mission*
 
-The vision of menō is to see all Christians being able to connect and fellowship seamlessly with each other from anywhere in the world and we are on a mission to build the world's most effective live streaming/connectivity platform for believers.
+The vision of Menō is to see every Christian be able to easily access resources and tools beneficial for their spiritual growth.
 
 ### *Features:*
 - Read Bible & Blogs
